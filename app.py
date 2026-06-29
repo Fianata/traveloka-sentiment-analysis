@@ -83,7 +83,7 @@ st.write("---")
 ulasan = st.text_area(
     "Masukkan Teks Ulasan:",
     height=120,
-    placeholder="Contoh: Hotel sangat bersih, pemandangannya bagus, dan pelayanan sangat ramah."
+    placeholder="Contoh: Refund super cepat, pemandangannya bagus, dan pelayanan sangat ramah."
 )
 prediksi = st.button("Analisis Sentimen", use_container_width=True, type="primary")
 

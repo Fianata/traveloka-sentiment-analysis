@@ -74,7 +74,7 @@ def preprocessing(text):
 # UI: HEADER
 # ==========================================================
 st.markdown("<h2 style='text-align: center;'>Analisis Sentimen Ulasan Traveloka</h2>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: gray;'>Klasifikasi ulasan layanan pariwisata menggunakan TF-IDF dan XGBoost.</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray;'>Klasifikasi ulasan layanan pariwisata menggunakan XGBoost.</p>", unsafe_allow_html=True)
 st.write("---")
 
 # ==========================================================
